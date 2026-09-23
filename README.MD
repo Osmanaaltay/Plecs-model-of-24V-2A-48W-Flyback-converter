@@ -9,10 +9,10 @@
 | Çıkış gerilimi | 24 V |
 | Çıkış gücü | 48 W (Iout = 2 A) |
 | Anahtarlama frekansı | 100 kHz |
-| Giriş gerilimi | *Vin,min – Vin,max (doldurun)* |
+| Giriş gerilimi | *235 – 375V |
 | Çalışma modu | DCM |
 | Kontrol | Tepe akım modu (SR flip-flop + akım karşılaştırıcı) |
-| Nüve | Samwha ETD29 (hava boşluklu) |
+| Nüve |  ETD29 (0.5mm hava boşluklu) |
 | Snubber | RCD |
 
 ## Tasarım Özeti
